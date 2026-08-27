@@ -1,3 +1,3 @@
 rootProject.name = "schema-drafter"
 
-include("app", "common", "requirements-parser", "llm-analysis", "db-rule-engine")
+include("application", "requirement-model", "requirement-analyzer", "rule-engine")
